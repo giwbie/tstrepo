@@ -1,10 +1,10 @@
 Sample spring sample
-
-
-
+**!!!!!!!!! CHANGE MADE IN sample-branch !!!!!!!!!1111111**
+Make it more... changes during pull requests 
 
 We adding this line locally
 
 Please, read it carefully. Added on github remotely. 
 ================
 This is a  merged version added 
+
