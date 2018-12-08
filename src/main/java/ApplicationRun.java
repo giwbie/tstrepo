@@ -1,12 +1,11 @@
 import com.pluralsight.service.CustomerService;
 import com.pluralsight.service.CustomerServiceImpl;
 
-public class Application {
+public class ApplicationRun {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Start out application");
 		CustomerService service = new CustomerServiceImpl();
-		
 		System.out.println(service.findAll().get(0).getFirstname());
 	}
 
